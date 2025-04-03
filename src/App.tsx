@@ -37,7 +37,7 @@ function App() {
         ))}
       </ul>
       <div>
-        🥳 App successfully hosted. Try creating a new todo.
+        🥳 App successfully hosted. Try creating a new todo and you can see you pending Todo.
       </div>
       <button onClick={signOut}>Sign out</button>
     </main>
